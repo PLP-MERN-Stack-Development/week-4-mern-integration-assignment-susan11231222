@@ -1,0 +1,20 @@
+# Node modules
+server/node_modules/
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# Env files
+.env
+
+# Vite build output
+dist/
+
+# VSCode settings (optional)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
